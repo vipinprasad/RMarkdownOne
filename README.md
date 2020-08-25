@@ -12,3 +12,4 @@ deleted a 5 th line of text
 
 added another line 
 ww
+another change 
